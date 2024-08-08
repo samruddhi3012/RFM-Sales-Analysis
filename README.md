@@ -14,5 +14,3 @@ The [dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) :deskt
 ## :round_pushpin: Description 
 
 
-
-
