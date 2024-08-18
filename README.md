@@ -1,5 +1,7 @@
-# Sales-Data-Analysis
-RFM (Recency, Frequency, Monetary) sales analysis is a marketing technique used to evaluate and segment customers based on their purchasing behavior. This method helps businesses identify their most valuable customers and tailor marketing strategies accordingly.
+# RFM Sales Analysis
+RFM (Recency, Frequency, Monetary) sales analysis is a marketing technique used to evaluate and segment customers based on their purchasing behavior. 
+
+This method helps businesses identify their most valuable customers and tailor marketing strategies accordingly.
 ![dead3-1_ohv1o0sljibjk6evwkvg5g](https://github.com/user-attachments/assets/94778fb4-289e-48c6-b062-606dfe06ecb9)
 
 ## :round_pushpin: Objectives
@@ -12,15 +14,15 @@ The [dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) :deskt
 * Concepts: Common Table Expression, Window Functions, GROUP BY clause, Aggregate Functions, Various charts in Tableau
 
 ## :round_pushpin: Dashboard
+A sales analysis dashboard is created using Tableau, which is presented as follows: 
 
 ## :round_pushpin: Results
-<br> The key results from the analysis are presented as follows:
+The key results from the analysis are presented as follows:
 * _**Preliminary Analysis Results**_:
    1. The company generated total revenue of **$10,032,629**.
    4. There were **92** unique customers.
    5. **Classic Cars** and **Vintage Cars** are the highest-selling products.
    6. According to order status, **92%** of products were shipped, and 2% were canceled.
-   7. The best-selling year was 2004.
    8. Yearly Sales Change:
       1. Sales increased by **34.32%** from 2003 to 2004.
       2. Sales dropped by **62.08%** from 2004 to 2005.
