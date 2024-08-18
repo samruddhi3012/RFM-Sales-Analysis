@@ -1,5 +1,7 @@
 # Sales-Data-Analysis
 
+![dead3-1_ohv1o0sljibjk6evwkvg5g](https://github.com/user-attachments/assets/94778fb4-289e-48c6-b062-606dfe06ecb9)
+
 ## :round_pushpin: Objectives
 The goals of this project are to perform **RFM analysis** and **Segmentation analysis** on the given dataset and build an interactive Sales Analytics dashboard using Tableau.
 
