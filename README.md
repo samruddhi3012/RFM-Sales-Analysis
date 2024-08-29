@@ -55,6 +55,8 @@ The key results from the analysis are presented as follows:
 * Segment Distribution: <br> &nbsp;Calculated the percentage of customers in each segment.
 * Product Combinations: <br> &nbsp;Analyzed frequently bought together products for bundling opportunities.
 
+### _Thank you for visiting my repository!_
+
 <!--
 # Results
    * Generated total revenue of $10,032,629.
