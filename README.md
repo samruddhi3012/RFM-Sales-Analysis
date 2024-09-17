@@ -12,9 +12,10 @@ The [dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) :deskt
 * Tools : Microsoft SQL Server, Tableau
 * Keywords: **RFM Analysis**, **Segmentation Analysis**, **Data Visualization**, Data Interpretation, Dasboard 
 * Concepts: Common Table Expression, Window Functions, GROUP BY clause, Aggregate Functions, Various charts in Tableau
-
+<!--
 ## :round_pushpin: Dashboard
 A sales analysis dashboard is created using Tableau, which is presented as follows: 
+-->
 
 ## :round_pushpin: Results
 The key results from the analysis are presented as follows:
