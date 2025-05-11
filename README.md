@@ -1,17 +1,17 @@
 # RFM Sales Analysis
-RFM (Recency, Frequency, Monetary) sales analysis is a marketing technique used to evaluate and segment customers based on their purchasing behavior. 
-
-This method helps businesses identify their most valuable customers and tailor marketing strategies accordingly.
+RFM (Recency, Frequency, Monetary) sales analysis is a marketing technique used to evaluate and segment customers based on their purchasing behavior. This method helps businesses identify their most valuable customers and tailor marketing strategies accordingly.
 ![dead3-1_ohv1o0sljibjk6evwkvg5g](https://github.com/user-attachments/assets/94778fb4-289e-48c6-b062-606dfe06ecb9)
 
 ## :round_pushpin: Objectives
-The goals of this project are to perform **RFM analysis** and **Segmentation analysis** on the given dataset and build an interactive Sales Analytics dashboard using Tableau.
+To identify high-value customers and at-risk churners through data-driven segmentation, enabling targeted marketing and inventory decisions.
 
-## :round_pushpin: Tools Used
-The [dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) :desktop_computer: used in this project is obtained from kaggle.
-* Tools : Microsoft SQL Server, Tableau
+## :round_pushpin: Tools and Technologies
+
+* Data Source: [Dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+* Tools: Microsoft SQL Server, Tableau
 * Keywords: **RFM Analysis**, **Segmentation Analysis**, **Data Visualization**, Data Interpretation, Dasboard 
 * Concepts: Common Table Expression, Window Functions, GROUP BY clause, Aggregate Functions, Various charts in Tableau
+  
 <!--
 ## :round_pushpin: Dashboard
 A sales analysis dashboard is created using Tableau, which is presented as follows: 
@@ -19,7 +19,7 @@ A sales analysis dashboard is created using Tableau, which is presented as follo
 
 ## :round_pushpin: Results
 The key results from the analysis are presented as follows:
-* _**Preliminary Analysis Results**_:
+* _**Exploratory Analysis Results**_:
    1. The company generated total revenue of **$10,032,629**.
    4. There were **92** unique customers.
    5. **Classic Cars** and **Vintage Cars** are the highest-selling products.
@@ -36,25 +36,24 @@ The key results from the analysis are presented as follows:
 ## :round_pushpin: Description 
 1. _**Preliminary Analysis**_
 <br>Conducted a comprehensive analysis to understand key sales metrics:
-
-* Total Sales & Orders: <br> &nbsp; Analyzed total sales and order count across countries.
-* Order Frequency & Unique Customers: <br> &nbsp; Identified the most frequent ordering country and unique customer count.
-* Product & Deal Size Analysis: <br> &nbsp;Evaluated sales performance of products and various deal sizes.
-* Order Status Distribution: <br> &nbsp; Assessed distribution of order statuses.
-* Top Performance Metrics:
-* Best selling year and month.
-* Year-over-year revenue changes.
-* Highest selling products in peak months and by city/country.
-* Top revenue-generating countries and cities.
-* Sales trends by territories, quarters, and yearly product performance.
-* Yearly sales differences for specific products.
+   * Total Sales & Orders: <br> &nbsp; Analyzed total sales and order count across countries.
+   * Order Frequency & Unique Customers: <br> &nbsp; Identified the most frequent ordering country and unique customer count.
+   * Product & Deal Size Analysis: <br> &nbsp;Evaluated sales performance of products and various deal sizes.
+   * Order Status Distribution: <br> &nbsp; Assessed distribution of order statuses.
+   * Top Performance Metrics:
+   * Best selling year and month.
+   * Year-over-year revenue changes.
+   * Highest selling products in peak months and by city/country.
+   * Top revenue-generating countries and cities.
+   * Sales trends by territories, quarters, and yearly product performance.
+   * Yearly sales differences for specific products.
   
 2. _**RFM Analysis**_
 <br> Utilized RFM (Recency, Frequency, Monetary) analysis to segment and understand customer behavior:
-* Best Customers Identification: <br> &nbsp;Identified top customers based on purchase patterns.
-* Customer Segmentation: <br> &nbsp;Grouped customers into segments such as best, loyal, and at-risk customers.
-* Segment Distribution: <br> &nbsp;Calculated the percentage of customers in each segment.
-* Product Combinations: <br> &nbsp;Analyzed frequently bought together products for bundling opportunities.
+   * Best Customers Identification: <br> &nbsp;Identified top customers based on purchase patterns.
+   * Customer Segmentation: <br> &nbsp;Grouped customers into segments such as best, loyal, and at-risk customers.
+   * Segment Distribution: <br> &nbsp;Calculated the percentage of customers in each segment.
+   * Product Combinations: <br> &nbsp;Analyzed frequently bought together products for bundling opportunities.
 
 ### _Thank you for visiting my repository!_
 
