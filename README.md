@@ -9,7 +9,7 @@ To identify high-value customers and at-risk churners through data-driven segmen
 
 * Data Source: [Dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 * Tools: Microsoft SQL Server, Tableau
-* Keywords: **RFM Analysis**, **Segmentation Analysis**, **Data Visualization**, Data Interpretation, Dasboard 
+* Keywords: **RFM Analysis**, **Segmentation Analysis**, **Data Visualization**, Data Interpretation, Data Manipulation, Tableau Dashboard 
 * Concepts: Common Table Expression, Window Functions, GROUP BY clause, Aggregate Functions, Various charts in Tableau
   
 <!--
