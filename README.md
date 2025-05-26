@@ -1,4 +1,4 @@
-# RFM Sales Analysis
+# RFM Analysis
 RFM (Recency, Frequency, Monetary) sales analysis is a marketing technique used to evaluate and segment customers based on their purchasing behavior. This method helps businesses identify their most valuable customers and tailor marketing strategies accordingly.
 ![dead3-1_ohv1o0sljibjk6evwkvg5g](https://github.com/user-attachments/assets/94778fb4-289e-48c6-b062-606dfe06ecb9)
 
